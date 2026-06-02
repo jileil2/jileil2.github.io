@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 360" role="img" aria-labelledby="title desc">
+  <title id="title">Jilei Lin academic monogram</title>
+  <desc id="desc">A restrained circular monogram with the initials JL.</desc>
+  <rect width="360" height="360" fill="#f8f7f2"/>
+  <circle cx="180" cy="180" r="142" fill="none" stroke="#1d3448" stroke-width="3"/>
+  <circle cx="180" cy="180" r="119" fill="none" stroke="#c4b58d" stroke-width="2"/>
+  <g fill="#1d3448" font-family="Georgia, Times New Roman, serif" text-anchor="middle">
+    <text x="180" y="190" font-size="86" font-weight="700">JL</text>
+    <text x="180" y="236" font-size="18" letter-spacing="4">STATISTICS</text>
+  </g>
+  <path d="M106 101h148M106 259h148" stroke="#c4b58d" stroke-width="2"/>
+</svg>
